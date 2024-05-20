@@ -20,3 +20,7 @@ Additionally, the application provides a recommendation system to suggest the op
 - Python
 - Tkinter (for GUI)
 - Figma for designing the interface
+
+## nbviewer Link
+
+https://nbviewer.org/github/Menna2002/CompressionAlgorithms/blob/master/DataCompression.ipynb
